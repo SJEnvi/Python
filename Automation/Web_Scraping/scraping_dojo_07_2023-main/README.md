@@ -8,4 +8,4 @@ http://quotes.toscrape.com/js-delayed/ website and saves them to a singlejsonl (
 Note: The program should scrape the website http://quotes.toscrape.com/js-delayed/ where the text appears with a
 random delay of a few seconds.
 
-I used playwright and BeautifulSoup it was a lot of fun to learn those libraries for this recruitment.
+I used playwright and BeautifulSoup in my code and I have to say that it was a lot of fun to learn those libraries under the pressure of time.
