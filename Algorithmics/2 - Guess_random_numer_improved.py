@@ -1,5 +1,5 @@
-# Aim of this code is to find an avarage number of attempts needed to guess the random number by computer>
-# If we decrease a range ends each time a wrong number is guessed.
+# Aim of this code is to find an avarage number of attempts needed to guess the random number by computer
+# If we decrease a range ends each time a wrong number is guessed. This time we also improve the algorithm used in task 1
 import random
 
 def guess_the_number(l, r, correct_number):
